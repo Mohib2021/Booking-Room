@@ -16,10 +16,10 @@ function Body() {
 
 	return (
 		<div className="row my-4">
-			<div className="col-9">
+			<div className="col-md-9 col-sm-6 col-6">
 				<House handleBooking={handleBooking} houses={house} />
 			</div>
-			<div className="col-3">
+			<div className="col-md-3 col-sm-6 col-6">
 				<Booking bookings={booking} />
 			</div>
 		</div>

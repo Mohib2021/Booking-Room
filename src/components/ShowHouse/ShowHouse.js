@@ -11,7 +11,7 @@ function ShowHouse(props) {
 	const { name, img, AC, capacity, costPerRoom, rooms } = house;
 
 	return (
-		<div className="col-4">
+		<div className="col-md-4 col-sm-6 col-12">
 			<div className="bg-dark p-2 rounded text-white house">
 				<div className="text-center">
 					<img className="img rounded" src={img} alt="house" />
