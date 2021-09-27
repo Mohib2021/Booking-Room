@@ -2,6 +2,7 @@ import React from "react";
 import ShowHouse from "../ShowHouse/ShowHouse";
 
 function House(props) {
+	// destructuring props
 	const { houses } = props;
 	const { handleBooking } = props;
 

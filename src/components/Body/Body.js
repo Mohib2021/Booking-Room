@@ -3,13 +3,15 @@ import Booking from "../Booking/Booking";
 import House from "../House/House";
 
 function Body() {
-	const [house, setHouse] = useState([]);
-	const [booking, setBooking] = useState([]);
+	const [house, setHouse] = useState([]); // storing data after clicking
+	const [booking, setBooking] = useState([]); // storing data after loading
+	//loading data from public file
 	useEffect(() => {
 		fetch("./data.JSON")
 			.then((res) => res.json())
 			.then((data) => setHouse(data));
 	}, []);
+	// declaring function which will execute after clicking
 	const handleBooking = (house) => {
 		setBooking([...booking, house]);
 	};

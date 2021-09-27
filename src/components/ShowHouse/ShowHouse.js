@@ -1,13 +1,16 @@
 import React from "react";
 import "./ShowHouse.css";
+//importing font awesome
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faHouseUser, faPhone } from "@fortawesome/free-solid-svg-icons";
 
 function ShowHouse(props) {
+	// getting font awesome icon
 	const home = <FontAwesomeIcon icon={faHouseUser} />;
 	const phone = <FontAwesomeIcon icon={faPhone} />;
 	const { house } = props;
 	const { handleBooking } = props;
+	// destructuring house object
 	const { name, img, AC, capacity, costPerRoom, rooms } = house;
 
 	return (
