@@ -1,0 +1,164 @@
+[
+	{
+		"name": "Raj Vila",
+		"img": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+		"rooms": 10,
+		"capacity": 30,
+		"costPerRoom": 60,
+		"AC": "Yes",
+		"holding": 1001
+	},
+	{
+		"name": "Sanu Cottage",
+		"img": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+		"rooms": 15,
+		"capacity": 35,
+		"costPerRoom": 65,
+		"AC": "Yes",
+		"holding": 1002
+	},
+	{
+		"name": "Heaven",
+		"img": "https://images.pexels.com/photos/259751/pexels-photo-259751.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+		"rooms": 10,
+		"capacity": 25,
+		"costPerRoom": 63,
+		"AC": "Yes",
+		"holding": 1003
+	},
+	{
+		"name": "Green house",
+		"img": "https://images.pexels.com/photos/280222/pexels-photo-280222.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+		"rooms": 25,
+		"capacity": 50,
+		"costPerRoom": 55,
+		"AC": "No",
+		"holding": 1004
+	},
+	{
+		"name": "Rakib Vila",
+		"img": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+		"rooms": 30,
+		"capacity": 50,
+		"costPerRoom": 46,
+		"AC": "Yes",
+		"holding": 1005
+	},
+	{
+		"name": "Safe Shelter",
+		"img": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+		"rooms": 5,
+		"capacity": 10,
+		"costPerRoom": 30,
+		"AC": "No",
+		"holding": 1006
+	},
+	{
+		"name": "Peace Place",
+		"img": "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+		"rooms": 10,
+		"capacity": 30,
+		"costPerRoom": 40,
+		"AC": "Yes",
+		"holding": 1007
+	},
+	{
+		"name": "Rose Cottage",
+		"img": "https://images.pexels.com/photos/1122857/pexels-photo-1122857.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+		"rooms": 30,
+		"capacity": 50,
+		"costPerRoom": 50,
+		"AC": "Yes",
+		"holding": 1008
+	},
+	{
+		"name": "The Holies",
+		"img": "https://images.pexels.com/photos/1643389/pexels-photo-1643389.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+		"rooms": 10,
+		"capacity": 20,
+		"costPerRoom": 30,
+		"AC": "No",
+		"holding": 1009
+	},
+	{
+		"name": "VIP House",
+		"img": "https://images.pexels.com/photos/53610/large-home-residential-house-architecture-53610.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+		"rooms": 40,
+		"capacity": 80,
+		"costPerRoom": 70,
+		"AC": "Yes",
+		"holding": 1010
+	},
+	{
+		"name": "Guest House",
+		"img": "https://images.pexels.com/photos/221540/pexels-photo-221540.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+		"rooms": 10,
+		"capacity": 20,
+		"costPerRoom": 35,
+		"AC": "No",
+		"holding": 1011
+	},
+	{
+		"name": "Chill Out",
+		"img": "https://images.pexels.com/photos/209315/pexels-photo-209315.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+		"rooms": 7,
+		"capacity": 15,
+		"costPerRoom": 20,
+		"AC": "No",
+		"holding": 1012
+	},
+	{
+		"name": "Spring House",
+		"img": "https://images.pexels.com/photos/1438832/pexels-photo-1438832.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+		"rooms": 10,
+		"capacity": 25,
+		"costPerRoom": 40,
+		"AC": "Yes",
+		"holding": 1013
+	},
+	{
+		"name": "Autumn Tints",
+		"img": "https://images.pexels.com/photos/1612351/pexels-photo-1612351.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+		"rooms": 5,
+		"capacity": 9,
+		"costPerRoom": 30,
+		"AC": "No",
+		"holding": 1014
+	},
+	{
+		"name": "Garden Cottage",
+		"img": "https://images.pexels.com/photos/4946621/pexels-photo-4946621.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+		"rooms": 15,
+		"capacity": 35,
+		"costPerRoom": 45,
+		"AC": "No",
+		"holding": 1015
+	},
+	{
+		"name": "Hamida Vila",
+		"img": "https://images.pexels.com/photos/1145257/pexels-photo-1145257.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+		"rooms": 20,
+		"capacity": 36,
+		"costPerRoom": 50,
+		"AC": "Yes",
+		"holding": 1016
+	},
+	{
+		"name": "Crystal Cottage",
+		"img": "https://images.pexels.com/photos/5997996/pexels-photo-5997996.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+		"rooms": 10,
+		"capacity": 23,
+		"costPerRoom": 56,
+		"AC": "No",
+		"holding": 1017
+	},
+	{
+		"name": "The Coach House",
+		"img": "https://images.pexels.com/photos/5997994/pexels-photo-5997994.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+		"rooms": 35,
+		"capacity": 55,
+		"costPerRoom": 60,
+		"AC": "Yes",
+		"holding": 1018
+	}
+]
